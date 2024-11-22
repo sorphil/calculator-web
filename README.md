@@ -1,5 +1,5 @@
-# Calculator  
-## OdinProject Foundations Project 5
+## Calculator  
+
 
 ### Live Demo
 [Calculator 🧮](https://sorphil.github.io/Calculator/)   
