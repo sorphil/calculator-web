@@ -2,7 +2,7 @@
 
 
 ### Live Demo
-[Calculator 🧮](https://sorphil.github.io/Calculator/)   
+[Calculator 🧮](https://sorphil.github.io/calculator-web/)   
 
 ### Preview
 ![Calculator Gif](https://media.giphy.com/media/RJHMGOkCYEbABC0keq/giphy.gif)  
